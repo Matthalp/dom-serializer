@@ -1,5 +1,5 @@
 {
-  "name": "dom-serializer",
+  "name": "dom-serializer-quotes",
   "version": "0.1.0",
   "description": "render dom nodes to string",
   "author": "Matthew Halpern <matthalp@gmail.com>",
