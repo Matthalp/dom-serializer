@@ -2,15 +2,10 @@
   "name": "dom-serializer",
   "version": "0.1.0",
   "description": "render dom nodes to string",
-  "author": "Felix Boehm <me@feedic.com>",
-  "keywords": [
-    "html",
-    "xml",
-    "render"
-  ],
+  "author": "Matthew Halpern <matthalp@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/cheeriojs/dom-renderer.git"
+    "url": "git://github.com/Matthalp/dom-serializer.git"
   },
   "main": "./index.js",
   "files": [
@@ -21,7 +16,7 @@
     "entities": "~1.1.1"
   },
   "devDependencies": {
-    "cheerio": "*",
+    "cheerio-quotes": "*",
     "expect.js": "~0.3.1",
     "jshint": "~2.9.1-rc1",
     "lodash": "~4.14.2",
